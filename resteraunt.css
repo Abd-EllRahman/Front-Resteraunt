@@ -1,0 +1,12 @@
+.container{
+    margin-top: 10%;
+}
+.modal-header{
+    background-color: #038C3E;
+}
+.modal-footer{
+    background-color: #D9304F;
+}
+input[type = "checkbox"]:checked{
+    background-color:#038C3E;
+}
